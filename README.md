@@ -1,2 +1,2 @@
 # test-git
-Esta es la rama release
+Esta es la rama main
